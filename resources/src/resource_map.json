@@ -1,0 +1,26 @@
+{
+    "media": [
+        {
+            "defName": "FONT_QARMIC_SANS_18",
+            "type": "font",
+            "file": "fonts/Qarmic_sans_Abridged.ttf"
+        },
+        {
+            "defName": "FONT_QARMIC_SANS_24",
+            "type": "font",
+            "file": "fonts/Qarmic_sans_Abridged.ttf"
+        },
+        {
+            "defName": "FONT_ALEXBRUSH_30",
+            "type": "font",
+            "file": "fonts/AlexBrush.ttf"
+        },
+        {
+            "defName": "IMAGE_RECOVERY_140",
+            "type": "png",
+            "file": "images/recovery140.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
